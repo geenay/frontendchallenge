@@ -1,3 +1,9 @@
+body{
+font-family: 'Open Sans', sans-serif;
+font-size: 14px;
+}
+
+
 .container{
   width: 375px;
   margin: 0 auto;
@@ -51,7 +57,7 @@ width: 250px;
 .map{
   width: 375px;
   height: 250px;
-background-image: url(../images2/group.png);
+background-image: url(../images/group.png);
 background-size: cover;
 }
 
